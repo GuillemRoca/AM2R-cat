@@ -1,4 +1,5 @@
 # AM2R-cat
+![AM2R-cat](./AM2Rcat.png)
 (Necessites una còpia d'AM2R per aplicar aquesta traducció).
 
 Traducció al català d'AM2R.
