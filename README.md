@@ -3,7 +3,7 @@
 
 ![AM2R-cat](./AM2Rcat.png)
 
-Traducció al català d'**AM2R**.
+Traducció al català d'**AM2R - El Retron de Samus**.
 
 > **Nota:** Necessites una còpia d'AM2R per aplicar aquesta traducció.
 
