@@ -9,9 +9,11 @@ Traducció al català d'**AM2R - EL RETORN DE SAMUS**.
 
 ## Requisits
 
-- **AM2R 1.1** (necessària per aplicar el pegat correctament amb l'AM2R Launcher).
-- **AM2R Launcher** per gestionar i aplicar pegats i actualitzacions de la comunitat.
+- **AM2R 1.1** `AM2R_11.zip`(necessari per aplicar el pegat correctament amb l'AM2R Launcher/AM2R Autopatcher Mac).
+- **AM2R Launcher** [Windows/Android] per gestionar i aplicar pegats i actualitzacions de la comunitat.
   - Més informació i instruccions: https://github.com/AM2R-Community-Developers/AM2RLauncher
+- **AM2R Autopatcher Mac** [Mac] per gestionar i aplicar pegats i actualitzacions de la comunitat.
+    - Més informació i instruccions: https://github.com/Miepee/AM2R-Autopatcher-Mac
 
 ## Instal·lació manual (idioma)
 
@@ -33,7 +35,7 @@ Si utilitzes el perfil **Community Updates (Latest)**, col·loca els fitxers `la
 AM2RLauncher/Profiles/Community Updates (Latest)/lang
 ```
 
-### Mac (AM2R-Autopatcher-Mac)
+### Mac (AM2R Autopatcher Mac)
 
 Si utilitzes **AM2R-Autopatcher-Mac** amb el perfil **Community Updates**, copia els fitxers a:
 
