@@ -30,7 +30,7 @@ Traducció al català d'**AM2R - EL RETORN DE SAMUS**.
 Si utilitzes el perfil **Community Updates (Latest)**, col·loca els fitxers `languages.txt` i `catalan.ini` a:
 
 ```
-AM2R/AM2RLauncher/Profiles/Community Updates (Latest)/lang
+AM2RLauncher/Profiles/Community Updates (Latest)/lang
 ```
 
 ### Mac (AM2R-Autopatcher-Mac)
@@ -61,9 +61,10 @@ Un cop els arxius siguin al lloc correcte, torna a executar l'script del patcher
 Si utilitzes el perfil **Community Updates (Latest)**, crea també la carpeta i col·loca el PNG a:
 
 ```
-AM2R/AM2RLauncher/Profiles/Community Updates (Latest)/lang/titles/
+AM2RLauncher/Profiles/Community Updates (Latest)/lang/titles/
 ```
 
 ## Referències
 
-- AM2R Launcher (perfils, pegats i instruccions detallades): https://github.com/AM2R-Community-Developers/AM2RLauncher
+- [Windows/Android] AM2R Launcher (perfils, pegats i instruccions detallades): https://github.com/AM2R-Community-Developers/AM2RLauncher
+- [Mac] AM2R Autopatcher Mac (instruccions detallades): https://github.com/Miepee/AM2R-Autopatcher-Mac
