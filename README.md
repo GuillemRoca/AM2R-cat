@@ -16,7 +16,7 @@ Traducció al català d'**AM2R - EL RETORN DE SAMUS**.
 ## Instal·lació manual (idioma)
 
 1. Baixa els fitxers `catalan.ini` i `languages.txt` d'aquest repositori.
-2. Copia'ls a la carpeta `AM2R/lang` del joc.
+2. Copia'ls a la carpeta `lang` del joc.
 3. Si ja tens un `languages.txt`, assegura't que inclogui una línia amb:
    ```
    catalan.ini
@@ -49,11 +49,11 @@ Un cop els arxius siguin al lloc correcte, torna a executar l'script del patcher
 
 ### Instal·lació manual
 
-1. A la carpeta del joc, crea `titles` dins de `AM2R/lang/` (si no existeix).
+1. A la carpeta del joc, crea `titles` dins de `lang/` (si no existeix).
 2. Copia-hi el PNG del títol personalitzat (per exemple, el que trobaràs a `titles/` d'aquest repositori).
 3. Engega el joc: amb la traducció catalana activa, el joc utilitzarà la imatge de títol de:
    ```
-   AM2R/lang/titles/
+   lang/titles/
    ```
 
 ### AM2R Launcher (títol personalitzat)
