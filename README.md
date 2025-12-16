@@ -3,7 +3,7 @@
 
 ![AM2R-cat](./AM2Rcat.png)
 
-Traducció al català d'**AM2R - EL RETORN DE SAMUS**.
+Traducció al català d'**AM2R (Another Metroid 2 Remake) - EL RETORN DE SAMUS**.
 
 > **Nota:** Necessites una còpia d'AM2R per aplicar aquesta traducció.
 
