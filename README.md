@@ -1,34 +1,69 @@
+
 # AM2R-cat
+
 ![AM2R-cat](./AM2Rcat.png)
 
-(Necessites una còpia d'AM2R per aplicar aquesta traducció).
+Traducció al català d'**AM2R**.
 
-Traducció al català d'AM2R.
+> **Nota:** Necessites una còpia d'AM2R per aplicar aquesta traducció.
 
-Requisits:
-- Versió d'AM2R: 1.1 (necessària per aplicar el pegat correctament amb l'AM2R Launcher).
-- AM2R Launcher per gestionar i aplicar pegats i actualitzacions de la comunitat. Més informació i instruccions: https://github.com/AM2R-Community-Developers/AM2RLauncher
+## Requisits
 
-Instal·lació manual:
-1. Baixa l'arxiu "catalan.ini" i posa'l a AM2R\lang\.
+- **AM2R 1.1** (necessària per aplicar el pegat correctament amb l'AM2R Launcher).
+- **AM2R Launcher** per gestionar i aplicar pegats i actualitzacions de la comunitat.
+  - Més informació i instruccions: https://github.com/AM2R-Community-Developers/AM2RLauncher
 
-2. A AM2R\lang\, obre l'arxiu "languages.txt" i afegeix una línia amb el text: "catalan.ini". També pots substituir l'arxiu pel "languages.txt" que hi ha al repositori.
+## Instal·lació manual (idioma)
 
-3. Engega el joc i canvia l'idioma a les opcions.
+1. Baixa els fitxers `catalan.ini` i `languages.txt` d'aquest repositori.
+2. Copia'ls a la carpeta `AM2R/lang` del joc.
+3. Si ja tens un `languages.txt`, assegura't que inclogui una línia amb:
+   ```
+   catalan.ini
+   ```
+4. Engega el joc i selecciona **Català** al menú d'opcions d'idioma.
 
-Ús amb actualitzacions de la comunitat (AM2R Launcher):
-Si es vol utilitzar amb les actualitzacions de la comunitat, els arxius "languages.txt" i "catalan.ini" s'han de col·locar a:
-"AM2R\AM2RLauncher\Profiles\Community Updates (Latest)\lang"
+## AM2R Launcher / actualitzacions de la comunitat
 
-Afegir un títol personalitzat en català:
-1. A la carpeta del joc, crea la carpeta "titles" dins de "AM2R\lang\" (si no existeix).
-2. Col·loca-hi el fitxer PNG del títol personalitzat (per exemple, el que trobaràs al directori `titles/` d'aquest repositori).
-3. Engega el joc. Amb la traducció catalana activa, el joc utilitzarà la imatge de títol de "AM2R\lang\titles\".
+### Windows / Android (AM2R Launcher)
 
-Ús amb AM2R Launcher (títol personalitzat):
-Si utilitzes el perfil d'Actualitzacions de la Comunitat, crea també la carpeta i col·loca el PNG a:
-"AM2R\AM2RLauncher\Profiles\Community Updates (Latest)\lang\titles\".
+Si utilitzes el perfil **Community Updates (Latest)**, col·loca els fitxers `languages.txt` i `catalan.ini` a:
 
-Consulta el repositori de l'AM2R Launcher per a instruccions detallades sobre com crear perfils i aplicar pegats: https://github.com/AM2R-Community-Developers/AM2RLauncher
+```
+AM2R/AM2RLauncher/Profiles/Community Updates (Latest)/lang
+```
 
-Agraïments a atemporalDarkness i Imsu, els quals van fer la traducció castellana en la qual es basa aquesta traducció.
+### Mac (AM2R-Autopatcher-Mac)
+
+Si utilitzes **AM2R-Autopatcher-Mac** amb el perfil **Community Updates**, copia els fitxers a:
+
+```
+AM2R-Autopatcher-Mac/data/files_to_copy/lang
+```
+
+Un cop els arxius siguin al lloc correcte, torna a executar l'script del patcher per tenir l'idioma disponible.
+
+> **Nota (Mac):** els gràfics del títol en català no estan disponibles per aquesta versió.
+
+## Títol personalitzat en català (opcional)
+
+### Instal·lació manual
+
+1. A la carpeta del joc, crea `titles` dins de `AM2R/lang/` (si no existeix).
+2. Copia-hi el PNG del títol personalitzat (per exemple, el que trobaràs a `titles/` d'aquest repositori).
+3. Engega el joc: amb la traducció catalana activa, el joc utilitzarà la imatge de títol de:
+   ```
+   AM2R/lang/titles/
+   ```
+
+### AM2R Launcher (títol personalitzat)
+
+Si utilitzes el perfil **Community Updates (Latest)**, crea també la carpeta i col·loca el PNG a:
+
+```
+AM2R/AM2RLauncher/Profiles/Community Updates (Latest)/lang/titles/
+```
+
+## Referències
+
+- AM2R Launcher (perfils, pegats i instruccions detallades): https://github.com/AM2R-Community-Developers/AM2RLauncher
