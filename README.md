@@ -43,7 +43,7 @@ Si utilitzes **AM2R-Autopatcher-Mac** amb el perfil **Community Updates**, copia
 AM2R-Autopatcher-Mac/data/files_to_copy/lang
 ```
 
-Un cop els arxius siguin al lloc correcte, torna a executar l'script del patcher per tenir l'idioma disponible.
+Una vegada els arxius estan al lloc correcte podeu tornar a executar l’script per del patcher per tenir l’idioma disponible.
 
 > **Nota (Mac):** els gràfics del títol en català no estan disponibles per aquesta versió.
 
