@@ -9,10 +9,10 @@ Traducció al català d'**AM2R (Another Metroid 2 Remake) - EL RETORN DE SAMUS**
 
 ## Requisits
 
-- **AM2R 1.1** `AM2R_11.zip`(necessari per aplicar el pegat correctament amb l'AM2R Launcher/AM2R Autopatcher Mac).
-- **AM2R Launcher** [Windows/Android] per gestionar i aplicar pegats i actualitzacions de la comunitat.
+- **AM2R 1.1** `AM2R_11.zip`(necessari per aplicar el pedaç correctament amb l'AM2R Launcher/AM2R Autopatcher Mac).
+- **AM2R Launcher** [Windows/Android] per gestionar i aplicar pedaços i actualitzacions de la comunitat.
   - Més informació i instruccions: https://github.com/AM2R-Community-Developers/AM2RLauncher
-- **AM2R Autopatcher** [Mac] per gestionar i aplicar pegats i actualitzacions de la comunitat.
+- **AM2R Autopatcher** [Mac] per gestionar i aplicar pedaços i actualitzacions de la comunitat.
     - Més informació i instruccions: https://github.com/Miepee/AM2R-Autopatcher-Mac
 
 ## Instal·lació manual (idioma)
@@ -44,6 +44,8 @@ AM2R-Autopatcher-Mac/data/files_to_copy/lang
 ```
 
 Una vegada els arxius estan al lloc correcte podeu tornar a executar l’script per del patcher per tenir l’idioma disponible.
+
+> **Avís (Mac):** Si estàs jugant en una versió anterior de macOS, ja has acabat! Si ets a Sequoia, et queda un pas més. Si intentes obrir el joc, veuràs un error que diu que no es pot obrir i obtindràs un informe d'error. Per solucionar-ho, torneu a obrir la terminal, torneu al directori del pedaç i executeu la següent commanda `codesign --force --deep --sign - /path/to/am2r.app` Quan hagis fet això, el joc funcionarà!
 
 > **Nota (Mac):** els gràfics del títol en català no estan disponibles per aquesta versió.
 
