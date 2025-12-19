@@ -45,7 +45,7 @@ AM2R-Autopatcher-Mac/data/files_to_copy/lang
 
 Una vegada els arxius estan al lloc correcte podeu tornar a executar l’script per del patcher per tenir l’idioma disponible.
 
-> **Avís (Mac):** Si estàs jugant en una versió anterior de macOS, ja has acabat! Si ets a Mac OS Sequoia o posterior, et queda un pas més. Si intentes obrir el joc, veuràs un error que diu que no es pot obrir i obtindràs un informe d'error. Per solucionar-ho, torneu a obrir la terminal, torneu al directori del pedaç i executeu la següent commanda `codesign --force --deep --sign - /path/to/am2r.app` Quan hagis fet això, el joc funcionarà!
+> **Avís (Mac):** Si estàs jugant en una versió anterior de macOS, ja has acabat! Si ets a macOS Sequoia o posterior, et queda un pas més. Si intentes obrir el joc, veuràs un error que diu que no es pot obrir i obtindràs un informe d'error. Per solucionar-ho, torneu a obrir la terminal, torneu al directori del pedaç i executeu la següent commanda `codesign --force --deep --sign - /path/to/am2r.app` Quan hagis fet això, el joc funcionarà!
 
 > **Nota (Mac):** els gràfics del títol en català no estan disponibles per aquesta versió.
 
